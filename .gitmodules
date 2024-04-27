@@ -1,0 +1,3 @@
+[submodule "personaldocs"]
+	path = 02_My_Personal_Docs
+	url = git@github.com-softwaresunleashed:softwaresunleashed/personaldocs.git
